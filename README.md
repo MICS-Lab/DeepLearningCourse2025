@@ -1,2 +1,9 @@
-# DeepLearningCourse2025
- Ressources of the Deep Learning Course for 3rd year CentraleSupélec students in the "HSB" path, year 2025.
+# Deep Learning Course
+Ressources for Deep Learning Course (VSE).
+
+## GitHub Repository:
+
+## Grade breakdown:
+
+## Drive folder with datasets:
+https://drive.google.com/drive/folders/14QmpxUPmpeRtUxnDiCIaNLlsx9KIv8AK?usp=sharing
