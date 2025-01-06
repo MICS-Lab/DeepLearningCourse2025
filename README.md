@@ -2,6 +2,7 @@
 Ressources for Deep Learning Course (VSE).
 
 ## GitHub Repository:
+https://github.com/MICS-Lab/DeepLearningCourse2025
 
 ## Grade breakdown:
 
