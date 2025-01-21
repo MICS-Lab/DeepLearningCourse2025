@@ -37,5 +37,5 @@ conda create --name DLNLP2025 python=3.13 --force
 # Activate the environment
 source activate DLNLP2025
 
-pip install torch torchvision torchaudio matplotlib numpy pandas seaborn scipy scikit-learn
+pip install torch torchvision torchaudio matplotlib numpy pandas seaborn scipy scikit-learn ipykernel
 ```
