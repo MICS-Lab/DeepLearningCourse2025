@@ -9,6 +9,9 @@ https://github.com/MICS-Lab/DeepLearningCourse2025
 ## Drive folder with datasets:
 https://drive.google.com/drive/folders/14QmpxUPmpeRtUxnDiCIaNLlsx9KIv8AK?usp=sharing
 
+## Food3-big
+https://drive.google.com/drive/folders/1kMhMH5pi_jJNgwNPpy1epXsWCI4Hqsve
+
 ## Linux operations to install Python on the server at your disposal for GPUs
 ```
 #!/bin/bash
