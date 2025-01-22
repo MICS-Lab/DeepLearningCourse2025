@@ -9,8 +9,10 @@ https://github.com/MICS-Lab/DeepLearningCourse2025
 ## Drive folder with datasets:
 https://drive.google.com/drive/folders/14QmpxUPmpeRtUxnDiCIaNLlsx9KIv8AK?usp=sharing
 
-## Food3-big
-https://drive.google.com/drive/folders/1kMhMH5pi_jJNgwNPpy1epXsWCI4Hqsve
+## Kaggle competition links:
+- Fitting 1D function: https://www.kaggle.com/competitions/2025-fitting-a-1-d-1-d-function-with-deep-learning
+- MICS MNIST: https://www.kaggle.com/competitions/2025-decimal-classification-mics-mnist
+
 
 ## Linux operations to install Python on the server at your disposal for GPUs
 ```
