@@ -36,8 +36,8 @@ conda remove -n DLNLP2025 --all
 # that will interfer with the conda env
 export PYTHONNOUSERSITE=1
 
-# Create the environment using python 3.13
-conda create --name DLNLP2025 python=3.13 --force
+# Create the environment using python 3.12
+conda create --name DLNLP2025 python=3.12 --force
 
 # Activate the environment
 source activate DLNLP2025
